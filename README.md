@@ -13,7 +13,7 @@ The dataset contains information about Netflix titles including:
 - Date added to Netflix
 - Duration
 
-[Click here to view the dataset](https://github.com/Nurtas2000/netflix-content-analysis/blob/main/2-netflix-analysis.csv)
+[Click here to view the dataset](https://github.com/Nurtas2000/netflix-content-analysis/blob/main/netflix_titles.csv)
 
 
 ## 📊 Key Insights
