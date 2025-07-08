@@ -1,2 +1,5 @@
-# netflix-content-analysis
-Analysis of Netflix titles by genre, release year, and country using Python and pandas.
+# 2 Netflix Analysis
+
+Dataset: [link]
+
+Exploratory Data Analysis project.
