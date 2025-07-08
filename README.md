@@ -13,7 +13,8 @@ The dataset contains information about Netflix titles including:
 - Date added to Netflix
 - Duration
 
-> 📌 Source: [Add dataset link here]
+[Click here to view the dataset](https://github.com/Nurtas2000/netflix-content-analysis/blob/main/2-netflix-analysis.csv)
+
 
 ## 📊 Key Insights
 - Top genres available on Netflix
